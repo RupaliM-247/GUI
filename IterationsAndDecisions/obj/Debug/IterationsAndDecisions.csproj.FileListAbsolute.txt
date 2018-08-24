@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\bin\Debug\IterationsAndDecisions.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\IterationsAndDecisions\obj\Debug\IterationsAndDecisions.pdb

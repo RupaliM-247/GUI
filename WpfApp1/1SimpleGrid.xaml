@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid ShowGridLines="True" Background="AliceBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Name="lb1Instruction" Grid.Column="0" Grid.Row="0"  FontSize="15">
+            Enter Car Information
+        </Label>
+        <Button Name="btnOK" Height="30" Grid.Column="0" Grid.Row="0">
+            OK
+        </Button>
+        <Label Name="lblMake" Grid.Column="1" Grid.Row="0" >
+               Make
+        </Label>
+        <TextBox Name="txtMake" Grid.Column="1" Grid.Row="0" Width="193" Height="25"/>
+        <Label Name="lblColor" Grid.Column="0" Grid.Row="1" >
+            Color
+        </Label>
+        <Rectangle Fill="LightGreen" Grid.Column="1" Grid.Row="1" />
+        <Label Name="lblPetName" Grid.Column="1" Grid.Row="1">Pet Name</Label>
+        <TextBox Name="txtPetName" Grid.Column="1" Grid.Row="1" Width="193" Height="25"/>
+
+    </Grid>
+    
+</Window>

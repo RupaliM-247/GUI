@@ -1,0 +1,6 @@
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\bin\Debug\ConApp.exe.config
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\bin\Debug\ConApp.exe
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\bin\Debug\ConApp.pdb
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\obj\Debug\ConApp.csprojResolveAssemblyReference.cache
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\obj\Debug\ConApp.exe
+c:\users\grad57\documents\visual studio 2015\Projects\ConApp\ConApp\obj\Debug\ConApp.pdb

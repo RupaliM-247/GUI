@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\bin\Debug\FunWithLinqExpressions.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithLinqExpressions\obj\Debug\FunWithLinqExpressions.pdb

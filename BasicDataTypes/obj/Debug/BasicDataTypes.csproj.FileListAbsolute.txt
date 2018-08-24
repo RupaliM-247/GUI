@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\obj\Debug\BasicDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

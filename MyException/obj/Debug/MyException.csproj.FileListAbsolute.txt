@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\obj\Debug\MyException.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\bin\Debug\MyException.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\bin\Debug\MyException.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\bin\Debug\MyException.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\obj\Debug\MyException.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\MyException\obj\Debug\MyException.pdb

@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\obj\Debug\FunWithMethods.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\FunWithMethods\obj\Debug\FunWithMethods.pdb

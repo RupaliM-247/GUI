@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\bin\Debug\SimpleAdoExample.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\obj\Debug\SimpleAdoExample.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\bin\Debug\SimpleAdoExample.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\bin\Debug\SimpleAdoExample.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\obj\Debug\SimpleAdoExample.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleAdoExample\obj\Debug\SimpleAdoExample.pdb

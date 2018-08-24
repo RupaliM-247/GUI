@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

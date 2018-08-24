@@ -1,0 +1,150 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <ScrollViewer>
+    <StackPanel>
+        <TextBlock Text="External Candidate" FontSize="16" FontWeight="Bold"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Candidatecode" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="txtcode" Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="FirstName" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="txtname" Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="LastName" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="txtlname" Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="State" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="txtstate" Grid.Column="1"/>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="City" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="txtcity" Grid.Column="1"/>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="CountryCode" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <ComboBox x:Name="Countrycode" Grid.Column="1" Padding="2">
+                <ComboBoxItem Content="0001"/>
+                <ComboBoxItem Content="0002"/>
+                <ComboBoxItem Content="0003"/>
+                <ComboBoxItem Content="0004"/>
+            </ComboBox>
+
+
+        </Grid>
+        <Grid HorizontalAlignment="Right" Width="517">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0" Margin="10,0,10,0">
+                <TextBlock Text="BirthDate" FontSize="16" FontWeight="Bold"/>
+                <Calendar x:Name="calBirthdt" DisplayDate="1/1/9994"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1" >
+                <TextBlock Text="AplicationDate" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+                <Calendar x:Name="calAppdt" DisplayDate="1/1/2017"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="gender" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <RadioButton  Name="RbMale" Content="Male" Grid.Column="0"/>
+                <RadioButton Name="RbFemale" Content="Female" Grid.Column="1"/>
+                <RadioButton  Name="RbHuman" Content="Human" Grid.Column="2"/>
+
+            </Grid>
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Qualification" Grid.Column="0" FontSize="16" FontWeight="Bold"/>
+            <StackPanel Grid.Column="1">
+                <CheckBox Content="BE"/>
+                <CheckBox Content="MBBS"/>
+                <CheckBox Content="Others"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="103*"/>
+                <ColumnDefinition Width="69*"/>
+                <ColumnDefinition Width="172*"/>
+                <ColumnDefinition Width="173*"/>
+
+            </Grid.ColumnDefinitions>
+            <Button Name="btn1" Grid.Column="0" Content="Insert" Click="Insert_click" Grid.ColumnSpan="2" ></Button>
+                <Button Name="btn2" Grid.Column="1" Content="Update"  Click="Update_click"></Button>
+                <Button Name="btn3" Grid.Column="2" Content="Delete"  Click="Delete_click"></Button>
+        </Grid>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </StackPanel>
+    </ScrollViewer>
+</Window>

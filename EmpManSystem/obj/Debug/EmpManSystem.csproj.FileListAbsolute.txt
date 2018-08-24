@@ -1,0 +1,6 @@
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\bin\Debug\EmpManSystem.exe.config
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\bin\Debug\EmpManSystem.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\bin\Debug\EmpManSystem.pdb
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\obj\Debug\EmpManSystem.csprojResolveAssemblyReference.cache
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\obj\Debug\EmpManSystem.exe
+C:\Users\Grad57\Documents\Visual Studio 2015\Projects\EmpManSystem\obj\Debug\EmpManSystem.pdb
